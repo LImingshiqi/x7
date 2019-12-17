@@ -16,7 +16,6 @@
              @ReliableProducer
              @ReliableOnConsumed
 
-
 --------------------------------------
 to develop java project quickly 
 --------------------------------------
